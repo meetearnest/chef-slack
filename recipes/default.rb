@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 chef_gem "slackr" do
-  version '0.0.5'
+  version '0.0.2'
   action :install
 end
 
